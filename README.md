@@ -47,7 +47,7 @@ Ray Tracing is 3D rending algorithm which renders 3D objects on 2D screen. It is
         python ray_tracing.py
         
 ## Sample Generated Scenes:
-|||
+| | |
 |:-----------------:|:-----------------:|:-----------------:|
 |<img src="./outputs/2balls.png"|<img src="./outputs/mirror.png">|
 |<img src="./outputs/3balls.png">|<img src="./outputs/glassBall.png">|
