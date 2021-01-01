@@ -28,13 +28,27 @@ Ray Tracing is 3D rending algorithm which renders 3D objects on 2D screen. It is
  This repo. contains implementation of **Ray-Tracing** algorithm entirely from **Scratch** in pure **Python and numpy**.
  (open-cv(cv2)  - only to show and save generated scene)
 
- ## Here's How To Run The Code:
- ### Dependencies:
- *  numpy
- *  open-cv(cv2)  - only to show and save generated scene
-***
 
-*  Diclare the **scene, lights, camera** in last *if __ name __ == '__ main __ :' section of **ray_tacing.py**
-*  Run the code using:
+## Features of the code:
+*  **Shadow**
+*  **Reflection** -> Mirrors materials
+*  **Refraction** -> Transparent materials
+*  **Sphere, Rectangle, Triangle, Pyramid** shapes
+*  **Floor material**
+
+## Here's How To Run The Code:
+### Dependencies:
+*  numpy
+*  open-cv(cv2)  - only to show and save generated scene
+***
+### To Run The Code
+*  Diclare the **scene, lights, camera** in last *if __ name __ == '__ main __ :* section of **ray_tacing.py**
       
-      python ray_tracing.py
+        python ray_tracing.py
+        
+## Sample Generated Scenes:
+
+<img src='./screenshots/2balls.png">
+<img src='./screenshots/mirror.png">
+<img src='./screenshots/3balls.png">
+<img src='./screenshots/glassBall.png">
