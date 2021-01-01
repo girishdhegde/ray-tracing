@@ -48,7 +48,7 @@ Ray Tracing is 3D rending algorithm which renders 3D objects on 2D screen. It is
         
 ## Sample Generated Scenes:
 
-<img src='./screenshots/2balls.png">
-<img src='./screenshots/mirror.png">
-<img src='./screenshots/3balls.png">
-<img src='./screenshots/glassBall.png">
+<img src="./screenshots/2balls.png">
+<img src="./screenshots/mirror.png">
+<img src="./screenshots/3balls.png">
+<img src="./screenshots/glassBall.png">
