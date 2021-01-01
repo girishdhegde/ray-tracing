@@ -134,7 +134,7 @@ class ray:
         # b = 2 . dot(ray_direction, sourceToCentre)
         b   = 2 * self.direction.dot(s_c)
         # c = dot(sourceToCentre, sourceToCentre) - radius ** 2
-        c   = s_c.dot(s_c) - (radius ** 2)
+        c   = s_c.dot(s_c) - (obj.radius ** 2)
 
         discriminant = b ** 2 - 4 * a * c
 
