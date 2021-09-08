@@ -37,7 +37,7 @@ Ray Tracing is 3D rending algorithm which renders 3D objects on 2D screen. It is
 *  **Sphere, Rectangle, Triangle, Pyramid** shapes
 *  **Floor material**
 
-## Here's How To Run The Code:
+## Usage
 ### Dependencies:
 *  numpy
 *  open-cv(cv2)  - only to show and save generated scene
